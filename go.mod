@@ -1,1 +1,1 @@
-module mygolib
+module github.com/wetnose/mygolib.git
