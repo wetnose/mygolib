@@ -1,5 +1,5 @@
 package mygolib
 
-func echo(x string) string {
+func Echo(x string) string {
 	return x
 }
