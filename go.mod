@@ -1,1 +1,3 @@
-module github.com/wetnose/mygolib.git
+module github.com/wetnose/mygolib
+
+go 1.20
